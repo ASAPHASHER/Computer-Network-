@@ -1,0 +1,15 @@
+DAY - 1
+
+What is Computer Network?
+Its nothing but a system of interconnected devices which can communicate
+and share resources with each other.
+
+
+There are three types computer networkings  and they are 
+
+LAN - local Area Network 
+MAN - Metropolitan Area network
+WAN - wide Area network
+
+All these networks have different uses like interconnected devices,
+communication,resource sharing etc///\\\
